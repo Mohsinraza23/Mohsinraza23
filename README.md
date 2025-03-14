@@ -1,6 +1,12 @@
-<!-- Header -->
+<!-- Animated Header -->
 <h1 align="center">🚀 Mohsin Raza</h1>
 <h3 align="center">Full Stack Developer | AI Engineer | Web 3.0 Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B42C&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🚀;AI+Engineer+🤖;Web+3.0+Enthusiast+🌍;Passionate+Learner+🎯" />
+</p>
+
+---
 
 <!-- Profile Image -->
 <p align="center">
@@ -14,6 +20,8 @@
 ✔ **Full Stack Development (Next.js, React, TypeScript, Tailwind CSS)**  
 ✔ **Machine Learning & AI (Python, TensorFlow, OpenAI)**  
 ✔ **Cloud & Serverless Computing (AWS, Firebase, Vercel)**  
+
+🎨 **I love building stunning & highly interactive web experiences!**  
 
 📌 **[Visit My Portfolio](https://mohsinraza23.github.io/)**  
 
@@ -36,17 +44,34 @@
 
 ## 🚀 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,python,nodejs,mongodb,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,python,nodejs,mongodb,linux,docker,aws,vercel" />
 </p>
 
 ---
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
  
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+## 🚀 **My Contributions**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinraza23&theme=tokyo-night" alt="GitHub Activity Graph">
+</p>
+
+---
+
+## 🛠️ **Projects**
+🔹 [🚀 AI-Powered Resume Builder](https://github.com/mohsinraza23/resume-builder)  
+🔹 [🌍 Web 3.0 DApp](https://github.com/mohsinraza23/web3-dapp)  
+🔹 [💡 Portfolio Website](https://github.com/mohsinraza23/portfolio)  
+🔹 [🔥 Next.js Blog](https://github.com/mohsinraza23/nextjs-blog)  
 
 ---
 
@@ -55,6 +80,4 @@
 
 ---
 
-🔥 _"Code it, Build it, Break it, Fix it, Learn from it, Repeat!"_ 🔥  
-
-
+🔥 _"Code it, Build it, Break it, Fix it, Learn from it, Repeat!"_ 🔥
