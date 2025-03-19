@@ -1,83 +1,80 @@
-<!-- Animated Header -->
-<h1 align="center">🚀 Mohsin Raza</h1>
-<h3 align="center">Full Stack Developer | AI Engineer | Web 3.0 Enthusiast</h3>
+<!-- 🚀 Dark & Stylish Animated Header -->
+<h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: bold;">
+  <span style="color:#ff4500;">⚡ Mohsin Raza ⚡</span>
+</h1>
+<h3 align="center" style="color:#f7b42c;">Full Stack Developer | AI Engineer | Web 3.0 Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B42C&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🚀;AI+Engineer+🤖;Web+3.0+Enthusiast+🌍;Passionate+Learner+🎯" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff4500&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🤖+AI+Engineer;🌍+Web+3.0+Enthusiast;🎯+Passionate+Learner" />
 </p>
 
 ---
 
-<!-- Profile Image -->
+<!-- 🔥 Profile Image with a Cyberpunk Glow Effect -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="220" height="220" style="border-radius:50%; border:4px solid #ff4500;" />
+  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" 
+  width="240" height="240" 
+  style="border-radius:50%; border:4px solid #ff4500; box-shadow: 0px 0px 20px #ff4500;" />
 </p>
 
 ---
 
-## 🌟 **About Me**
-🎯 **Passionate Developer & AI Engineer** with expertise in:  
-✔ **Full Stack Development (Next.js, React, TypeScript, Tailwind CSS)**  
-✔ **Machine Learning & AI (Python, TensorFlow, OpenAI)**  
-✔ **Cloud & Serverless Computing (AWS, Firebase, Vercel)**  
+## 🎭 **Who Am I?**
+🖤 **A Developer who turns dreams into code.**  
+✔ **Master of TypeScript, Next.js, and Tailwind**  
+✔ **AI & Machine Learning Enthusiast**  
+✔ **Cloud & Serverless Computing Expert**  
 
-🎨 **I love building stunning & highly interactive web experiences!**  
-
-📌 **[Visit My Portfolio](https://mohsinraza23.github.io/)**  
+📌 **[🌎 Visit My Portfolio](https://mohsinraza23.github.io/)**  
 
 ---
 
-## 🌎 **Connect With Me**
+## 🔥 **Let's Connect**
 <p align="center">
   <a href="https://github.com/mohsinraza23">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/mohsin-raza-a514392b6">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-ff4500?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:mr934586@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 🚀 **Tech Stack**
+## 🛠️ **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,python,nodejs,mongodb,linux,docker,aws,vercel" />
 </p>
 
 ---
 
-## 📊 **GitHub Stats**
+## ⚡ **GitHub Stats**
 <p align="center">
- 
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🚀 **My Contributions**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinraza23&theme=tokyo-night" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinraza23&theme=radical" alt="GitHub Activity Graph">
 </p>
 
 ---
 
-## 🛠️ **Projects**
-🔹 [🚀 AI-Powered Resume Builder](https://github.com/mohsinraza23/resume-builder)  
-🔹 [🌍 Web 3.0 DApp](https://github.com/mohsinraza23/web3-dapp)  
-🔹 [💡 Portfolio Website](https://github.com/mohsinraza23/portfolio)  
-🔹 [🔥 Next.js Blog](https://github.com/mohsinraza23/nextjs-blog)  
+## 🔥 **Top Projects**
+🚀 [AI-Powered Resume Builder](https://github.com/mohsinraza23/resume-builder)  
+🌍 [Web 3.0 DApp](https://github.com/mohsinraza23/web3-dapp)  
+💡 [Portfolio Website](https://github.com/mohsinraza23/portfolio)  
+🔥 [Next.js Blog](https://github.com/mohsinraza23/nextjs-blog)  
 
 ---
 
-## 🎯 **Fun Fact**
-💡 _"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."_ 🚀  
+## 🎭 **Fun Fact**
+_"Great developers solve problems they were unqualified for until they actually did it!"_  
 
----
-
-🔥 _"Code it, Build it, Break it, Fix it, Learn from it, Repeat!"_ 🔥
+🔥 **"Code it. Break it. Fix it. Learn from it. Repeat!"** 🔥  
