@@ -94,6 +94,9 @@ IPFS • Blockchain
   <a href="https://www.linkedin.com/in/mohsin-raza-a514392b6" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ff4500" alt="LinkedIn" />
   </a>
+  <a href="https://www.youtube.com/@CodewithMohsin1" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=ff4500" alt="YouTube" />
+  </a>
   <a href="mailto:mr934586@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff4500" alt="Email" />
   </a>
