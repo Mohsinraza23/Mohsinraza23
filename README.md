@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Animated Glitch Title -->
-<img src="https:"https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif"
+<img src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif"
 </div>
 
 <!-- Typing Animation with Multiple Lines -->
