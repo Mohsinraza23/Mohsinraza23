@@ -32,7 +32,7 @@
 
 ### 🎯 THE CODE ARCHITECT
 
-<img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width="200" height="200" style="border-radius: 50%; border: 5px solid #ff4500; box-shadow: 0 0 30px #ff4500, 0 0 50px #ff4500;" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmohdaamil120%2Fmohdaamil120&psig=AOvVaw0Qv1WMwBqYdMbVM27Mzug4&ust=1768076992129000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjkv7ym_5EDFQAAAAAdAAAAABAK" width="200" height="200" style="border-radius: 50%; border: 5px solid #ff4500; box-shadow: 0 0 30px #ff4500, 0 0 50px #ff4500;" />
 
 <br/><br/>
 
