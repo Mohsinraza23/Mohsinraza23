@@ -8,7 +8,8 @@
 <div align="center">
 
 <!-- Animated Glitch Title -->
-<img src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif"
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=MOHSIN%20RAZA&fontSize=80&fontAlignY=35&desc=Full%20Stack%20•%20AI%20Engineer%20•%20Agentic%20AI%20Developer&descSize=20&descAlignY=55&animation=twinkling" width="100%" />
+
 </div>
 
 <!-- Typing Animation with Multiple Lines -->
