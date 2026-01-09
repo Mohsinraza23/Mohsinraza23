@@ -7,16 +7,16 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff4500&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;🤖+AI+Engineer;🌍+Web+3.0+Enthusiast;🧠+Agentic+AI+Developer;🎯+Passionate+Learner" />
+  <img src="https://raw.githubusercontent.com/Mohsinraza23/my-repo/main/assets/typing.gif" width="600" />
 </p>
 
 ---
 
-<!-- 🔥 Profile Image with a Cyberpunk Glow Effect -->
+<!-- 🔥 Profile Image with Cyberpunk Glow -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" 
-  width="240" height="240" 
-  style="border-radius:50%; border:4px solid #ff4500; box-shadow: 0px 0px 25px #ff4500;" />
+  <img src="https://raw.githubusercontent.com/Mohsinraza23/my-repo/main/assets/profile.png" 
+       width="240" height="240" 
+       style="border-radius:50%; border:4px solid #ff4500; box-shadow: 0px 0px 25px #ff4500;" />
 </p>
 
 ---
