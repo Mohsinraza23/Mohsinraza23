@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mohsinraza23/my-repo/main/assets/profile.png" 
        width="240" height="240" 
-       style="border-radius:50%; border:4px solid #ff4500; box-shadow: 0px 0px 25px #ff4500;" />
+       style="border-radius:50%; border:4px solid #ff4500; box-shadow: 0px 0px 20px #ff4500;" />
 </p>
 
 ---
