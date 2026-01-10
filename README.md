@@ -3,6 +3,7 @@
   MOHSIN RAZA - Cyberpunk Developer Profile
   A Stunning GitHub README with Advanced Animations & Visual Effects
 ═══════════════════════════════════════════════════════════════════
+
 -->
 
 <div align="center">
@@ -160,11 +161,11 @@ IPFS • Blockchain
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&icon_color=f7b42c&text_color=ffffff&ring_color=ff4500&fire_color=f7b42c&currStreakLabel=ff4500" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinraza23&theme=radical&hide_border=true&background=0D1117&stroke=ff4500&ring=ff4500&fire=f7b42c&currStreakLabel=ff4500&sideLabels=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&icon_color=f7b42c&text_color=ffffff" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinraza23&theme=radical&hide_border=true&background=0D1117&stroke=ff4500&ring=ff4500&fire=f7b42c&currStreakLabel=ff4500&sideLabels=ffffff" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&text_color=ffffff&langs_count=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=mohsinraza23&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&text_color=ffffff&layout=compact" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&text_color=ffffff&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&icon_color=f7b42c&text_color=ffffff&count_private=true" alt="GitHub Stats with Private" />
 
 </div>
 
@@ -180,7 +181,8 @@ IPFS • Blockchain
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohsinraza23&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=mohsinraza23&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" width="100%" alt="GitHub Trophies" />
 
 <br/><br/>
 
@@ -234,22 +236,45 @@ IPFS • Blockchain
 
 <div align="center">
 
-<!-- Project Cards -->
-<a href="https://github.com/mohsinraza23/resume-builder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinraza23&repo=resume-builder&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&icon_color=f7b42c&text_color=ffffff" width="49%" />
-</a>
-<a href="https://github.com/mohsinraza23/web3-dapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinraza23&repo=web3-dapp&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&icon_color=f7b42c&text_color=ffffff" width="49%" />
-</a>
+<!-- Project Cards - These will show your actual repos if they exist -->
+<!-- Otherwise they'll show as repo not found placeholders -->
 
-<a href="https://github.com/mohsinraza23/agentic-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinraza23&repo=agentic-ai&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&icon_color=f7b42c&text_color=ffffff" width="49%" />
-</a>
-<a href="https://github.com/mohsinraza23/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinraza23&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&icon_color=f7b42c&text_color=ffffff" width="49%" />
-</a>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🤖 AI Resume Builder</h3>
+<div align="center">  
+<a href="https://github.com/mohsinraza23/resume-builder" target="_blank"><img src="https://img.shields.io/badge/VIEW_PROJECT-ff4500?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
+<p><strong>Intelligent resume generation with AI</strong> - Built with Next.js, OpenAI, and Tailwind CSS</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🌐 Web3 DApp</h3>
+<div align="center">  
+<a href="https://github.com/mohsinraza23/web3-dapp" target="_blank"><img src="https://img.shields.io/badge/VIEW_PROJECT-f7b42c?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
+<p><strong>Decentralized application</strong> - Built with Solidity, React, and Ethers.js</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🧠 Agentic AI System</h3>
+<div align="center">  
+<a href="https://github.com/mohsinraza23/agentic-ai" target="_blank"><img src="https://img.shields.io/badge/VIEW_PROJECT-ff4500?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
+<p><strong>Autonomous AI agents</strong> - Built with Python, LangChain, and RAG</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">💼 Portfolio v3</h3>
+<div align="center">  
+<a href="https://github.com/mohsinraza23/portfolio" target="_blank"><img src="https://img.shields.io/badge/VIEW_PROJECT-f7b42c?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/></a>
+<p><strong>Interactive 3D portfolio</strong> - Built with Next.js, Three.js, and Framer Motion</p>
+</div>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
 ### 💎 PROJECT SHOWCASE
 
@@ -287,11 +312,14 @@ IPFS • Blockchain
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohsinraza23/mohsinraza23/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohsinraza23/mohsinraza23/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohsinraza23/mohsinraza23/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinraza23&custom_title=My%20Contribution%20Journey&bg_color=0D1117&color=ff4500&line=f7b42c&point=ffffff&area_color=ff4500&area=true&hide_border=true&height=300" width="95%" />
+
+<br/><br/>
+
+<!-- Snake animation will appear after GitHub Action setup -->
+<!-- To enable: Create .github/workflows/snake.yml in your profile repo -->
+<!-- For now, showing contribution calendar instead -->
+<img src="https://ghchart.rshah.org/ff4500/mohsinraza23" alt="GitHub Contribution Chart" width="95%" />
 
 </div>
 
