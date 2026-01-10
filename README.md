@@ -32,7 +32,11 @@
 
 ### 🎯 THE CODE ARCHITECT
 
-<img src="https://share.google/images/3d1JXhmG2Eo0myaEO" width="200" height="200" style="border-radius: 50%; border: 5px solid #ff4500; box-shadow: 0 0 30px #ff4500, 0 0 50px #ff4500;" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" />
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" />
 
 <br/><br/>
 
