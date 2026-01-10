@@ -3,7 +3,6 @@
   MOHSIN RAZA - Cyberpunk Developer Profile
   A Stunning GitHub README with Advanced Animations & Visual Effects
 ═══════════════════════════════════════════════════════════════════
-
 -->
 
 <div align="center">
@@ -161,11 +160,17 @@ IPFS • Blockchain
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&icon_color=f7b42c&text_color=ffffff" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinraza23&theme=radical&hide_border=true&background=0D1117&stroke=ff4500&ring=ff4500&fire=f7b42c&currStreakLabel=ff4500&sideLabels=ffffff" alt="GitHub Streak" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&icon_color=f7b42c&text_color=ffffff" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinraza23&theme=radical&hide_border=true&background=0D1117&stroke=ff4500&ring=ff4500&fire=f7b42c&currStreakLabel=ff4500&sideLabels=ffffff" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&text_color=ffffff&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&icon_color=f7b42c&text_color=ffffff&count_private=true" alt="GitHub Stats with Private" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&text_color=ffffff&langs_count=8" alt="Top Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&icon_color=f7b42c&text_color=ffffff&count_private=true&include_all_commits=true" alt="Total Stats" />
 
 </div>
 
@@ -181,8 +186,8 @@ IPFS • Blockchain
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=mohsinraza23&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" width="100%" alt="GitHub Trophies" />
+<!-- GitHub Trophies with proper rendering -->
+<img src="https://github-profile-trophy.vercel.app/?username=mohsinraza23&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" width="90%" alt="GitHub Trophies" />
 
 <br/><br/>
 
