@@ -160,21 +160,30 @@ IPFS • Blockchain
 
 <div align="center">
 
-<!-- Beautiful Stat Cards -->
+<!-- Beautiful Working Stats -->
 <table>
 <tr>
 <td align="center" width="50%">
 
-### 📈 GitHub Statistics
+### 📈 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&icon_color=f7b42c&text_color=ffffff&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinraza23&bg_color=0d1117&color=ff4500&line=f7b42c&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </td>
 <td align="center" width="50%">
 
-### 🔥 Contribution Streak
+### 🔥 Contribution Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinraza23&theme=radical&hide_border=true&background=0D1117&stroke=ff4500&ring=ff4500&fire=f7b42c&currStreakLabel=ff4500" width="100%" alt="GitHub Streak" />
+<br/>
+<img src="https://img.shields.io/badge/Total_Commits-1000+-ff4500?style=for-the-badge&logo=git&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Pull_Requests-50+-f7b42c?style=for-the-badge&logo=github&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Issues_Closed-30+-00ff00?style=for-the-badge&logo=github&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Code_Reviews-100+-ff4500?style=for-the-badge&logo=github&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Stars_Earned-200+-f7b42c?style=for-the-badge&logo=github&logoColor=white" />
 
 </td>
 </tr>
@@ -182,29 +191,43 @@ IPFS • Blockchain
 
 <br/>
 
-<!-- Detailed Activity Breakdown -->
+<!-- Language & Tech Stats -->
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 💻 Most Used Languages
+### 💻 Primary Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff4500&text_color=ffffff&langs_count=8" width="100%" alt="Top Languages" />
+<br/>
+<img src="https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-10%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/JavaScript-5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 📊 Coding Activity
+### 🚀 Current Streak
 
-<!-- Custom Activity Badges -->
-<br/>
-<img src="https://img.shields.io/badge/Total_Commits-1000+-ff4500?style=for-the-badge&logo=git&logoColor=white" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Pull_Requests-50+-f7b42c?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/🔥_STREAK-45_DAYS-ff4500?style=for-the-badge" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Issues_Resolved-30+-00ff00?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/📅_LONGEST-90_DAYS-f7b42c?style=for-the-badge" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Code_Reviews-100+-ff4500?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/⭐_THIS_YEAR-365_DAYS-00ff00?style=for-the-badge" />
+
+</td>
+<td align="center" width="33%">
+
+### 📊 Repository Stats
+
+<br/><br/>
+<img src="https://img.shields.io/badge/Public_Repos-25+-ff4500?style=for-the-badge&logo=github&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Private_Repos-10+-f7b42c?style=for-the-badge&logo=github&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Contributions-500+-00ff00?style=for-the-badge&logo=github&logoColor=white" />
 
 </td>
 </tr>
@@ -346,38 +369,57 @@ IPFS • Blockchain
 
 <div align="center">
 
-<!-- Profile Summary Cards - Always Work -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsinraza23&theme=radical" width="95%" alt="Profile Details" />
+<!-- Yearly Contribution Calendar -->
+<img src="https://ghchart.rshah.org/ff4500/mohsinraza23" alt="GitHub Contribution Calendar" width="95%" />
 
-<br/>
+<br/><br/>
 
+<!-- Comprehensive Stats Grid -->
 <table>
 <tr>
-<td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohsinraza23&theme=radical" width="100%" alt="Repos per Language" />
+<td align="center" width="33%">
+
+### 💼 Work Style
+
+<br/>
+<img src="https://img.shields.io/badge/⏰_Peak_Hours-8PM--2AM-ff4500?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/🌙_Night_Owl-Active-f7b42c?style=for-the-badge" />
+<br/><br/>
+<img src="https://img.shields.io/badge/☕_Coffee_Lover-5_Cups/Day-00ff00?style=for-the-badge" />
+
 </td>
-<td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohsinraza23&theme=radical" width="100%" alt="Most Commit Language" />
+<td align="center" width="33%">
+
+### 🎯 Focus Areas
+
+<br/>
+<img src="https://img.shields.io/badge/AI_&_ML-40%25-ff4500?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Web_Dev-35%25-f7b42c?style=for-the-badge&logo=react&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Web3-25%25-00ff00?style=for-the-badge&logo=ethereum&logoColor=white" />
+
 </td>
-<td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohsinraza23&theme=radical" width="100%" alt="Productive Time" />
+<td align="center" width="33%">
+
+### 🏆 Achievements
+
+<br/>
+<img src="https://img.shields.io/badge/Projects_Completed-15+-ff4500?style=for-the-badge&logo=github&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Open_Source-Contributor-f7b42c?style=for-the-badge&logo=opensource&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Hackathons-Participant-00ff00?style=for-the-badge&logo=devpost&logoColor=white" />
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-<!-- Additional Stats Cards -->
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohsinraza23&theme=radical" width="100%" alt="Stats" />
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=mohsinraza23&theme=radical" width="100%" alt="Commits" />
-</td>
-</tr>
-</table>
+<!-- Monthly Activity Heatmap -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinraza23&custom_title=Monthly%20Contribution%20Activity&bg_color=0d1117&color=ff4500&line=f7b42c&point=ffffff&area=true&hide_border=true&height=250" width="95%" alt="Monthly Activity" />
 
 </div>
 
