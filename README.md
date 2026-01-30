@@ -20,16 +20,9 @@
 
 ## 🔥 Skill Level
 
-**AI / LLM Engineering**  
 ![AI](https://img.shields.io/badge/AI%20Engineering-90%25-2c5364?style=for-the-badge)
-
-**Next.js & React**  
 ![NextJS](https://img.shields.io/badge/Next.js%20%2F%20React-92%25-0f2027?style=for-the-badge)
-
-**Backend Development**  
 ![Backend](https://img.shields.io/badge/Backend%20APIs-88%25-243B55?style=for-the-badge)
-
-**Automation & Agents**  
 ![Agents](https://img.shields.io/badge/AI%20Agents-90%25-1b2735?style=for-the-badge)
 
 ---
@@ -53,10 +46,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -66,7 +59,17 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=mohsinraza23&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=mohsinraza23&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinraza23&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -103,6 +106,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)](https://github.com/mohsinraza23)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohsin-raza-a514392b6)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@CodewithMohsin1)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohsinraza23.github.io/)
 
 </div>
@@ -120,7 +124,11 @@
 
 <div align="center">
 
-⭐ **If you like my work, consider starring a repository!**  
-Made with ❤️ by **Mohsin Raza**
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer"/>
+
+**Made with ❤️ by Mohsin Raza**  
+🚀 Building the future with AI
 
 </div>
