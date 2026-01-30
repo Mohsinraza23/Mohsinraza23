@@ -1,56 +1,46 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,100:2c5364&text=Mohsin%20Raza&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Agentic%20AI%20Builder&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:141E30,100:243B55&text=Mohsin%20Raza&fontSize=60&fontAlignY=35&desc=Agentic%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohsinraza23&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
 
 ---
 
 ## 👋 About Me
 
-🚀 Full Stack Developer building **AI-powered applications**  
-🧠 Focused on **Agentic AI, LLM Apps & Intelligent Automation**  
-⚡ I turn ideas into **real AI tools & modern web apps**
+Hi, I'm **Mohsin Raza** — an **Agentic AI Engineer** and **Full Stack Developer** who builds intelligent systems that automate real-world work.
 
-> *“I build systems that think, learn, and automate work.”*
-
----
-
-## 🔥 Skill Level
-
-![AI](https://img.shields.io/badge/AI%20Engineering-90%25-2c5364?style=for-the-badge)
-![NextJS](https://img.shields.io/badge/Next.js%20%2F%20React-92%25-0f2027?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend%20APIs-88%25-243B55?style=for-the-badge)
-![Agents](https://img.shields.io/badge/AI%20Agents-90%25-1b2735?style=for-the-badge)
+- 🤖 Building **AI Agents & LLM Applications**
+- 🌐 Creating modern apps using **Next.js & TypeScript**
+- ⚡ Turning ideas into **scalable AI-powered products**
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 Tech Stack
 
-**AI & LLMs**  
-`LangChain` • `OpenAI` • `Hugging Face` • `RAG` • `AI Agents`
+### 🧠 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge)
 
-**Frontend**  
-`Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Framer Motion`
+### 💻 Frontend
+![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-**Backend**  
-`Node.js` • `Express` • `FastAPI` • `MongoDB` • `PostgreSQL`
-
-**DevOps**  
-`Docker` • `GitHub Actions` • `Linux` • `Vercel`
+### ⚙️ Backend & Tools
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 ---
@@ -58,19 +48,7 @@
 ## 🔥 Contribution Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mohsinraza23&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinraza23&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
+  <img src="https://streak-stats.demolab.com?user=mohsinraza23&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 ---
@@ -79,56 +57,39 @@
 
 <div align="center">
 
-<a href="https://github.com/mohsinraza23/resume-builder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinraza23&repo=resume-builder&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/mohsinraza23">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinraza23&repo=AI-Resume-Builder&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/mohsinraza23/agentic-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinraza23&repo=agentic-ai&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/mohsinraza23/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinraza23&repo=portfolio&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/mohsinraza23/web3-dapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinraza23&repo=web3-dapp&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/mohsinraza23">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinraza23&repo=Agentic-AI-System&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
 
 ---
 
-## 🌍 Connect With Me
+## 🎯 Visitor Counter
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohsinraza23&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)](https://github.com/mohsinraza23)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohsin-raza-a514392b6)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@CodewithMohsin1)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohsinraza23.github.io/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/)
 
 </div>
 
 ---
 
-## 🧠 Currently Exploring
-
-- Advanced **Agentic AI Architectures**
-- Multi-Agent Collaboration Systems
-- AI + Automation Workflows
-- Scalable Next.js Applications
-
----
-
 <div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer"/>
-
-**Made with ❤️ by Mohsin Raza**  
-🚀 Building the future with AI
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:141E30,100:243B55"/>
 </div>
