@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+Systems+that+Think...;Crafting+Full+Stack+Apps+that+Scale...;Automating+Real-World+Workflows+with+LLMs...;PIAIC+%7C+GIAIC+%7C+NED+University+%7C+Karachi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+Systems+that+Think...;Crafting+Full+Stack+Apps+that+Scale...;Automating+Real-World+Workflows+with+LLMs...;PIAIC+%7C+GIAIC+%7C+NED+BSCS+%7C+Karachi+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,11 +14,11 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohsinraza23&label=Profile+Views&color=7B2FBE&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=mohsinraza23&label=Profile+Views&color=7B2FBE&style=for-the-badge)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Mohsinraza23?label=Followers&style=for-the-badge&color=A855F7&labelColor=1a1a2e)](https://github.com/Mohsinraza23)
+[![GitHub followers](https://img.shields.io/github/followers/mohsinraza23?label=Followers&style=for-the-badge&color=A855F7&labelColor=1a1a2e)](https://github.com/Mohsinraza23)
 &nbsp;
-[![Stars](https://img.shields.io/github/stars/Mohsinraza23?label=Stars&style=for-the-badge&color=A855F7&labelColor=1a1a2e)](https://github.com/Mohsinraza23)
+[![Stars](https://img.shields.io/github/stars/mohsinraza23?label=Stars&style=for-the-badge&color=A855F7&labelColor=1a1a2e)](https://github.com/Mohsinraza23)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 A passionate **Agentic AI Engineer** and **Full Stack Developer** from **Karachi, Pakistan**
 
-- Studying at **NED University** — **PIAIC** — **GIAIC** Governor House Karachi
+- **BSCS Graduate** from **NED University** — **PIAIC** — **GIAIC** — Karachi, Pakistan
 - Specializing in **Autonomous AI Agents** and **LLM-powered Applications**
 - Building with **MCP**, **LangChain**, **Claude API**, **Next.js 15**
 - Turning complex AI ideas into **real production-grade systems**
@@ -52,9 +52,9 @@ A passionate **Agentic AI Engineer** and **Full Stack Developer** from **Karachi
 
 | Institution | Program | Location |
 |:---:|:---:|:---:|
-| **NED University** | Engineering | Karachi, Pakistan |
-| **PIAIC** | Presidential Initiative for AI & Computing | Governor House, Karachi |
-| **GIAIC** | Governor's Initiative for AI & Computing | Governor House, Karachi |
+| **NED University** | BSCS — Bachelor of Science in Computer Science | Karachi, Pakistan |
+| **PIAIC** | Presidential Initiative for AI & Computing | Karachi, Pakistan |
+| **GIAIC** | Governor's Initiative for AI & Computing | Karachi, Pakistan |
 
 </div>
 
@@ -108,7 +108,7 @@ A passionate **Agentic AI Engineer** and **Full Stack Developer** from **Karachi
       <td width="50%" align="center">
         <h3>AI Resume Builder</h3>
         <a href="https://github.com/Mohsinraza23/AI-Resume-Builder" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohsinraza23&repo=AI-Resume-Builder&theme=tokyonight&hide_border=true&border_radius=10" alt="AI Resume Builder" width="100%"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinraza23&repo=AI-Resume-Builder&theme=tokyonight&hide_border=true&border_radius=10" alt="AI Resume Builder" width="100%"/>
         </a>
         <br/><br/>
         <p><b>Tech:</b> Next.js • OpenAI • TypeScript • Tailwind</p>
@@ -120,7 +120,7 @@ A passionate **Agentic AI Engineer** and **Full Stack Developer** from **Karachi
       <td width="50%" align="center">
         <h3>Agentic AI System</h3>
         <a href="https://github.com/Mohsinraza23/Agentic-AI-System" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohsinraza23&repo=Agentic-AI-System&theme=tokyonight&hide_border=true&border_radius=10" alt="Agentic AI System" width="100%"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinraza23&repo=Agentic-AI-System&theme=tokyonight&hide_border=true&border_radius=10" alt="Agentic AI System" width="100%"/>
         </a>
         <br/><br/>
         <p><b>Tech:</b> Python • LangChain • FastAPI • MCP</p>
@@ -139,15 +139,15 @@ A passionate **Agentic AI Engineer** and **Full Stack Developer** from **Karachi
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohsinraza23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Mohsinraza23&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=mohsinraza23&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsinraza23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohsinraza23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&hide=stars,contribs&show=reviews,prs_merged,discussions_started" alt="Extra Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&hide=issues&show_icons=true" alt="Extra Stats"/>
 
 </div>
 
@@ -156,7 +156,7 @@ A passionate **Agentic AI Engineer** and **Full Stack Developer** from **Karachi
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohsinraza23&bg_color=1a1b27&color=A855F7&line=7B2FBE&point=ffffff&area=true&hide_border=true&custom_title=Mohsin%20Contribution%20Activity" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinraza23&bg_color=1a1b27&color=A855F7&line=7B2FBE&point=ffffff&area=true&hide_border=true&custom_title=Mohsin%20Contribution%20Activity" width="98%"/>
 </div>
 
 ---
@@ -164,7 +164,7 @@ A passionate **Agentic AI Engineer** and **Full Stack Developer** from **Karachi
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohsinraza23&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7" width="98%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohsinraza23&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7" width="98%"/>
 </div>
 
 ---
