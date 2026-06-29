@@ -203,17 +203,65 @@ class MohsinRaza:
 <div align="center">
 
 > *"The best way to predict the future is to build it — with AI."*
-> 
+>
 > 🇵🇰 Based in **Karachi, Pakistan** | Open to **remote collaboration worldwide**
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohsinraza23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin-raza-a514392b6)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodewithMohsin1)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinraza2248@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
-[![Twitter](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
+### 🔗 All My Links — One Place
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://codewithmohsin-links.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/🌐_All_Links-codewithmohsin-7B2FBE?style=for-the-badge&labelColor=0f0c29" alt="Links Hub"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:mohsinraza2248@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/📧_Email_Me-mohsinraza2248-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000" alt="Email"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 📱 Social Media
+
+<p>
+  <a href="https://github.com/Mohsinraza23" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Mohsinraza23-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mohsin-raza-a514392b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohsin_Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@CodewithMohsin1" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-CodewithMohsin-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://www.instagram.com/mohsinraza3541/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-mohsinraza3541-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/mohsin.raza.166438" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Mohsin_Raza-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/raza75828" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-@raza75828-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
+  </a>
+</p>
+
+<br/>
+
+<a href="https://codewithmohsin-links.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Visit_My_Links_Hub-Click_Here-A855F7?style=for-the-badge&labelColor=302b63" alt="Links Hub"/>
+</a>
 
 </div>
 
