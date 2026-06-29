@@ -1,56 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=Mohsin%20Raza&fontSize=65&fontAlignY=38&fontColor=ffffff&desc=Agentic%20AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20AI%20Educator&descAlignY=58&descSize=17&animation=fadeIn&stroke=7B2FBE&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,40:302b63,100:24243e&text=Mohsin%20Raza&fontSize=70&fontAlignY=38&fontColor=ffffff&desc=🤖%20Agentic%20AI%20Engineer%20%20•%20%20💻%20Full%20Stack%20Developer%20%20•%20%20🎓%20AI%20Educator&descAlignY=57&descSize=16&animation=fadeIn" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=🤖+Building+Agentic+AI+Systems+that+Think;🌐+Crafting+Full+Stack+Apps+that+Scale;⚡+Automating+Real-World+Workflows+with+LLMs;🎓+PIAIC+%7C+GIAIC+%7C+NED+University+Karachi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+Systems+that+Think...;Crafting+Full+Stack+Apps+that+Scale...;Automating+Real-World+Workflows+with+LLMs...;PIAIC+%7C+GIAIC+%7C+NED+University+%7C+Karachi)](https://git.io/typing-svg)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohsinraza23&label=Profile+Views&color=7B2FBE&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/mohsinraza23?label=Followers&style=for-the-badge&color=302b63&labelColor=0f0c29)](https://github.com/mohsinraza23)
-[![GitHub stars](https://img.shields.io/github/stars/mohsinraza23?label=Total+Stars&style=for-the-badge&color=302b63&labelColor=0f0c29)](https://github.com/mohsinraza23)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohsinraza23&label=Profile+Views&color=7B2FBE&style=for-the-badge)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Mohsinraza23?label=Followers&style=for-the-badge&color=A855F7&labelColor=1a1a2e)](https://github.com/Mohsinraza23)
+&nbsp;
+[![Stars](https://img.shields.io/github/stars/Mohsinraza23?label=Stars&style=for-the-badge&color=A855F7&labelColor=1a1a2e)](https://github.com/Mohsinraza23)
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
-<img align="right" alt="AI Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="AI Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```python
-class MohsinRaza:
-    name       = "Mohsin Raza"
-    role       = ["Agentic AI Engineer", "Full Stack Developer"]
-    education  = ["NED University", "PIAIC", "GIAIC"]
-    city       = "Karachi, Pakistan 🇵🇰"
-    languages  = ["Python", "TypeScript", "JavaScript"]
-    
-    currently  = {
-        "building" : "Agentic AI Systems with MCP",
-        "learning" : "Multi-Agent Orchestration",
-        "teaching" : "AI concepts at GIAIC"
-    }
-    
-    contact    = "mohsinraza2248@gmail.com"
-    
-    def passion(self):
-        return "I don't just write code — I build minds 🤖"
-```
+### Hi, I'm Mohsin Raza!
+
+A passionate **Agentic AI Engineer** and **Full Stack Developer** from **Karachi, Pakistan**
+
+- Studying at **NED University** — **PIAIC** — **GIAIC** Governor House Karachi
+- Specializing in **Autonomous AI Agents** and **LLM-powered Applications**
+- Building with **MCP**, **LangChain**, **Claude API**, **Next.js 15**
+- Turning complex AI ideas into **real production-grade systems**
+- Sharing knowledge on **YouTube** — *Code with Mohsin*
+- Based in **Karachi** — Open to **remote collaborations worldwide**
+- Reach me at **mohsinraza2248@gmail.com**
+
+> *"I don't just write code — I build minds"*
 
 <br clear="right"/>
 
 ---
 
-## 🎓 Education & Community
+## Education & Community
 
 <div align="center">
 
-| 🏛️ Institution | 📚 Program | 📍 Location |
+| Institution | Program | Location |
 |:---:|:---:|:---:|
 | **NED University** | Engineering | Karachi, Pakistan |
 | **PIAIC** | Presidential Initiative for AI & Computing | Governor House, Karachi |
@@ -60,11 +60,11 @@ class MohsinRaza:
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### 🤖 AI & Agentic Systems
+### AI & Agentic Systems
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -74,14 +74,14 @@ class MohsinRaza:
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-302b63?style=for-the-badge)
 
-### 💻 Frontend Development
+### Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -89,7 +89,7 @@ class MohsinRaza:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon_DB-00E5BF?style=for-the-badge&logo=neon&logoColor=black)
 
-### 🔧 DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -100,38 +100,34 @@ class MohsinRaza:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center">🤖 AI Resume Builder</h3>
-        <div align="center">
-          <a href="https://github.com/mohsinraza23/AI-Resume-Builder" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinraza23&repo=AI-Resume-Builder&theme=tokyonight&hide_border=true&border_radius=10" alt="AI Resume Builder"/>
-          </a>
-          <br/><br/>
-          <p><strong>Tech:</strong> Next.js • OpenAI • TypeScript • Tailwind</p>
-          <p>AI-powered resume generator with smart templates and ATS optimization</p>
-          <a href="https://github.com/mohsinraza23/AI-Resume-Builder">
-            <img src="https://img.shields.io/badge/View_Code-302b63?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
+      <td width="50%" align="center">
+        <h3>AI Resume Builder</h3>
+        <a href="https://github.com/Mohsinraza23/AI-Resume-Builder" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohsinraza23&repo=AI-Resume-Builder&theme=tokyonight&hide_border=true&border_radius=10" alt="AI Resume Builder" width="100%"/>
+        </a>
+        <br/><br/>
+        <p><b>Tech:</b> Next.js • OpenAI • TypeScript • Tailwind</p>
+        <p>AI-powered resume generator with smart templates and ATS optimization</p>
+        <a href="https://github.com/Mohsinraza23/AI-Resume-Builder">
+          <img src="https://img.shields.io/badge/View_Code-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
       </td>
-      <td width="50%">
-        <h3 align="center">⚡ Agentic AI System</h3>
-        <div align="center">
-          <a href="https://github.com/mohsinraza23/Agentic-AI-System" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinraza23&repo=Agentic-AI-System&theme=tokyonight&hide_border=true&border_radius=10" alt="Agentic AI System"/>
-          </a>
-          <br/><br/>
-          <p><strong>Tech:</strong> Python • LangChain • FastAPI • MCP</p>
-          <p>Multi-agent orchestration system with autonomous task execution</p>
-          <a href="https://github.com/mohsinraza23/Agentic-AI-System">
-            <img src="https://img.shields.io/badge/View_Code-302b63?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
+      <td width="50%" align="center">
+        <h3>Agentic AI System</h3>
+        <a href="https://github.com/Mohsinraza23/Agentic-AI-System" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohsinraza23&repo=Agentic-AI-System&theme=tokyonight&hide_border=true&border_radius=10" alt="Agentic AI System" width="100%"/>
+        </a>
+        <br/><br/>
+        <p><b>Tech:</b> Python • LangChain • FastAPI • MCP</p>
+        <p>Multi-agent orchestration system with autonomous task execution</p>
+        <a href="https://github.com/Mohsinraza23/Agentic-AI-System">
+          <img src="https://img.shields.io/badge/View_Code-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
       </td>
     </tr>
   </table>
@@ -139,129 +135,104 @@ class MohsinRaza:
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohsinraza23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinraza23&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohsinraza23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Mohsinraza23&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinraza23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=mohsinraza23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats"/>
-</div>
 
----
-
-## 📈 Contribution Snake
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinraza23&theme=tokyo-night&hide_border=true&area=true&custom_title=Mohsin%27s%20Contribution%20Activity%20Graph&area_color=7B2FBE&line=A855F7&point=ffffff" width="98%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohsinraza23&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=7" width="98%" alt="Trophies"/>
-</div>
-
----
-
-## 🎯 2026 Goals
-
-```
-✅ Master Agentic AI & Multi-Agent Systems
-✅ Build MCP-integrated production apps
-🔄 Contribute to 10+ open-source AI projects
-🔄 Launch AI SaaS product from Karachi
-🔄 Mentor 100+ GIAIC/PIAIC students
-⏳ Speak at a tech conference in Pakistan
-⏳ Build Pakistan's first open-source AI Agent framework
-```
-
----
-
-## 💡 Latest YouTube Content
-
-<div align="center">
-
-🎥 [Building AI Agents with LangChain & MCP](https://www.youtube.com/@CodewithMohsin1)
-🎥 [Next.js 15 Complete Guide for Beginners](https://www.youtube.com/@CodewithMohsin1)
-🎥 [Full Stack AI Application Tutorial](https://www.youtube.com/@CodewithMohsin1)
-🎥 [Agentic AI Systems — From Zero to Production](https://www.youtube.com/@CodewithMohsin1)
-
-▶️ **[Subscribe for weekly AI & Dev content →](https://www.youtube.com/@CodewithMohsin1)**
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsinraza23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohsinraza23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&hide=stars,contribs&show=reviews,prs_merged,discussions_started" alt="Extra Stats"/>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect & Collaborate!
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohsinraza23&bg_color=1a1b27&color=A855F7&line=7B2FBE&point=ffffff&area=true&hide_border=true&custom_title=Mohsin%20Contribution%20Activity" width="98%"/>
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohsinraza23&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7" width="98%"/>
+</div>
+
+---
+
+## 2026 Goals
 
 <div align="center">
 
-> *"The best way to predict the future is to build it — with AI."*
->
-> 🇵🇰 Based in **Karachi, Pakistan** | Open to **remote collaboration worldwide**
+| Status | Goal |
+|:---:|:---|
+| Done | Master Agentic AI and Multi-Agent Systems |
+| Done | Build MCP-integrated production apps |
+| In Progress | Contribute to 10+ open-source AI projects |
+| In Progress | Launch AI SaaS product from Karachi |
+| In Progress | Mentor 100+ GIAIC/PIAIC students |
+| Coming | Speak at a tech conference in Pakistan |
+| Coming | Build Pakistan's first open-source AI Agent framework |
+
+</div>
+
+---
+
+## Latest YouTube Content
+
+<div align="center">
+
+| Video | Watch |
+|:---|:---:|
+| Building AI Agents with LangChain and MCP | [Watch](https://www.youtube.com/@CodewithMohsin1) |
+| Next.js 15 Complete Guide for Beginners | [Watch](https://www.youtube.com/@CodewithMohsin1) |
+| Full Stack AI Application Tutorial | [Watch](https://www.youtube.com/@CodewithMohsin1) |
+| Agentic AI Systems — Zero to Production | [Watch](https://www.youtube.com/@CodewithMohsin1) |
 
 <br/>
 
-### 🔗 All My Links — One Place
+[![Subscribe](https://img.shields.io/badge/Subscribe_Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodewithMohsin1)
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://codewithmohsin-links.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_All_Links-codewithmohsin-7B2FBE?style=for-the-badge&labelColor=0f0c29" alt="Links Hub"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:mohsinraza2248@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/📧_Email_Me-mohsinraza2248-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000" alt="Email"/>
-      </a>
-    </td>
-  </tr>
-</table>
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+**Karachi, Pakistan — Open to remote collaboration worldwide**
 
 <br/>
 
-### 📱 Social Media
-
-<p>
-  <a href="https://github.com/Mohsinraza23" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Mohsinraza23-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/mohsin-raza-a514392b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohsin_Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@CodewithMohsin1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-CodewithMohsin-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://www.instagram.com/mohsinraza3541/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-mohsinraza3541-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/mohsin.raza.166438" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Mohsin_Raza-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/raza75828" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-@raza75828-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
-  </a>
-</p>
+[![Links Hub](https://img.shields.io/badge/All_My_Links-codewithmohsin-7B2FBE?style=for-the-badge&labelColor=0f0c29)](https://codewithmohsin-links.vercel.app/)
 
 <br/>
 
-<a href="https://codewithmohsin-links.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Visit_My_Links_Hub-Click_Here-A855F7?style=for-the-badge&labelColor=302b63" alt="Links Hub"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Mohsinraza23-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/Mohsinraza23)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohsin_Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin-raza-a514392b6/)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-CodewithMohsin-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodewithMohsin1)
+
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-mohsinraza3541-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohsinraza3541/)
+&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-Mohsin_Raza-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohsin.raza.166438)
+&nbsp;
+[![X](https://img.shields.io/badge/X_Twitter-raza75828-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/raza75828)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-mohsinraza2248-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinraza2248@gmail.com)
 
 </div>
 
@@ -269,12 +240,10 @@ class MohsinRaza:
 
 <div align="center">
 
-### 💭 Dev Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br/>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0f0c29,50:302b63,100:24243e&text=Thanks%20for%20visiting!%20⭐%20Star%20some%20repos!&fontSize=16&fontColor=A855F7&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f0c29,50:302b63,100:24243e&text=Thanks%20for%20visiting!%20Drop%20a%20star%20if%20you%20like%20my%20work!&fontSize=15&fontColor=A855F7&fontAlignY=65" width="100%"/>
 
 </div>
